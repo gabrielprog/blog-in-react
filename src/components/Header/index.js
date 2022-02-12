@@ -5,6 +5,8 @@ import './style.css'
 import Logo from '../../assets/image/logo.svg'
 import {FaSearchengin} from 'react-icons/fa'
 
+import {Link} from 'react-router-dom'
+
 export default function Header() {
     return (
         <>
@@ -27,9 +29,9 @@ export default function Header() {
                 </div>
 
                 <ul>
-                    <a href="#"><li>Categories</li></a>
-                    <a href="#"><li>About</li></a>
-                    <a href="#"><li>Contact</li></a>
+                    <Link to="/categories"><li>Categories</li></Link>
+                    <Link to="/about"><li>About</li></Link>
+                    <Link to="/contact"><li>Contact</li></Link>
                 </ul>
             </div>
         </>

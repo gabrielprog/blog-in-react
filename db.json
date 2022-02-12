@@ -1,0 +1,37 @@
+{
+  "posts": [
+
+      {
+          "id": 1,
+          "categorie": "Tecnologia",
+          "title": "Receita de bolo",
+          "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis possimus quaerat quae ex commodi at quo dolorem ipsam et ullam porro, ad nisi adipisci, eaque nobis doloribus recusandae? Alias, dignissimos!",
+          "author": "Gabriel",
+          "avatar": "https://cdn-icons-png.flaticon.com/512/147/147144.png"
+      },
+      {
+          "id": 2,
+          "categorie": "Relacionamentos",
+          "title": "Como arrumar uma namorada?",
+          "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis possimus quaerat quae ex commodi at quo dolorem ipsam et ullam porro, ad nisi adipisci, eaque nobis doloribus recusandae? Alias, dignissimos!",
+          "author": "Dona irine",
+          "avatar": "https://cdn-icons-png.flaticon.com/512/147/147144.png"
+      },
+      {
+          "id": 3,
+          "categorie": "Empreendedorismo",
+          "title": "Como ficar rico sendo programador?",
+          "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis possimus quaerat quae ex commodi at quo dolorem ipsam et ullam porro, ad nisi adipisci, eaque nobis doloribus recusandae? Alias, dignissimos!",
+          "author": "Zé",
+          "avatar": "https://cdn-icons-png.flaticon.com/512/147/147144.png"
+      },
+      {
+          "id": 4,
+          "categorie": "Trabalho",
+          "title": "Como fazer o recutrador(a) gosta da minha pessoa?",
+          "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis possimus quaerat quae ex commodi at quo dolorem ipsam et ullam porro, ad nisi adipisci, eaque nobis doloribus recusandae? Alias, dignissimos!",
+          "author": "Juliana",
+          "avatar": "https://cdn-icons-png.flaticon.com/512/147/147144.png"
+      }
+  ]
+}

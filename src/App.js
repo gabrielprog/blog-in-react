@@ -1,17 +1,12 @@
 import react from 'react'
 
-import Header from './components/Header'
-import Main from './components/Main'
+import Routes from './routes'
 
 import './global.css'
 
 function App() {
   return (
-    <>
-      <Header />
-
-      <Main />
-    </>
+      <Routes />
   )
 }
 
